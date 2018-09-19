@@ -1,0 +1,26 @@
+{
+  "name": "luxem",
+  "version": "1.0.0",
+  "description": "Epic WordPress theme boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peksipatongeis/luxem.git"
+  },
+  "author": "Pekka Wallenius",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/peksipatongeis/luxem/issues"
+  },
+  "homepage": "https://github.com/peksipatongeis/luxem#readme",
+  "dependencies": {
+    "bootstrap-sass": "^3.3.7",
+    "flickity": "^2.1.2",
+    "headroom.js": "^0.9.4",
+    "normalize.css": "^8.0.0",
+    "webpack": "^4.19.1"
+  }
+}
